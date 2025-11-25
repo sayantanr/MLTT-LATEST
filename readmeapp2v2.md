@@ -6,7 +6,7 @@
 
 > A comprehensive, AI-powered translation platform integrating real-time translation, OCR, voice input/output, and advanced statistical analysis across 120+ languages.
 
-[Live Demo](#) | [Documentation](#) | [Report Issues](#) | [Research Paper](#)
+
 
 ---
 
