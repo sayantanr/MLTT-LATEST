@@ -59,8 +59,8 @@ Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multilanguage-translator.git
-cd multilanguage-translator
+git clone https://github.com/sayantanr/MLTT-LATEST.git
+cd MLTT-LATEST
 ```
 
 2. Install dependencies:
